@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css" rel="stylesheet" />
+
+    <title>STS.Angular</title>
+</head>
+<body ng-app="STS.Angular">
+    <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
+    <script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="index.js"></script>
+
+    <h1>Claims</h1>
+    <div class="container-fluid" ng-controller="ClaimsController">
+        <div class="row">
+            <div class="col-xs-1">
+
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Issuer</th>
+                            <th>Type</th>
+                            <th>Value</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="claim in claims">
+                            <td class="col-xs-1">{{claim.m_issuer}}</td>
+                            <td class="col-xs-1">{{claim.m_type}}</td>
+                            <td class="col-xs-1">{{claim.m_value}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+      
+      
+    </div>
+    
+</body>
+</html>
