@@ -1,0 +1,45 @@
+gploum@gploumhotmail.onmicrosoft.com   -> Zuqo7975 ->GiorgoS1
+
+'default directory'
+
+https://defaultdirectory/WebApp-WSFederation-DotNet
+
+
+
+https://login.windows.net/075af58f-3435-456a-95c4-5a4fd57e1a9d/FederationMetadata/2007-06/FederationMetadata.xml
+
+client id : 7ff49990-910b-49f4-b576-d52a2e3fa752
+
+----------------------------------------------------------------
+
+https://sts-azure.accesscontrol.windows.net/
+
+
+https://login.microsoftonline.com/075af58f-3435-456a-95c4-5a4fd57e1a9d/federationmetadata/2007-06/federationmetadata.xml
+
+----------------------------------------------------------------
+
+Management Service	https://sts-azure.accesscontrol.windows.net/v2/mgmt/service
+Management Portal	https://sts-azure.accesscontrol.windows.net/
+OAuth WRAP	https://sts-azure.accesscontrol.windows.net/WRAPv0.9
+OAuth2	https://sts-azure.accesscontrol.windows.net/v2/OAuth2-13
+WS-Federation Metadata	https://sts-azure.accesscontrol.windows.net/FederationMetadata/2007-06/FederationMetadata.xml
+WS-Metadata Exchange	https://sts-azure.accesscontrol.windows.net/v2/wstrust/mex
+
+
+
+https://login.microsoftonline.com/075af58f-3435-456a-95c4-5a4fd57e1a9d/oauth2/token
+
+--------------------------------------------------------------------------------
+
+https://sts.windows.net/075af58f-3435-456a-95c4-5a4fd57e1a9d/
+
+ym9Ev6KwJKG/WyHxMBuKVfh326ZEeoRvFL8ZeuENz2A=
+
+
+-------------------------------------------
+name:rp.static
+client id:d8f47af9-2259-4971-9331-fd1cc41c1d8b
+app id uri:https://gploumhotmail.onmicrosoft.com/rp.static
+client secret = 7IylhPKSYXjKDAf1UTUOhcIAtpc8AQSU8WiGJ5HurbU=
+
