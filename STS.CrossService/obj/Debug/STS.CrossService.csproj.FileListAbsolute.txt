@@ -10,3 +10,15 @@ C:\STS\STS\STS.CrossService\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
 C:\STS\STS\STS.CrossService\obj\Debug\STS.CrossService.csprojResolveAssemblyReference.cache
 C:\STS\STS\STS.CrossService\obj\Debug\STS.CrossService.dll
 C:\STS\STS\STS.CrossService\obj\Debug\STS.CrossService.pdb
+C:\Users\r-gploum\Documents\GitHub\STS\STS.CrossService\bin\Debug\STS.CrossService.dll
+C:\Users\r-gploum\Documents\GitHub\STS\STS.CrossService\bin\Debug\STS.CrossService.pdb
+C:\Users\r-gploum\Documents\GitHub\STS\STS.CrossService\bin\Debug\STS.Simple.Core.dll
+C:\Users\r-gploum\Documents\GitHub\STS\STS.CrossService\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\r-gploum\Documents\GitHub\STS\STS.CrossService\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\r-gploum\Documents\GitHub\STS\STS.CrossService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\r-gploum\Documents\GitHub\STS\STS.CrossService\bin\Debug\STS.Simple.Core.pdb
+C:\Users\r-gploum\Documents\GitHub\STS\STS.CrossService\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\r-gploum\Documents\GitHub\STS\STS.CrossService\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\r-gploum\Documents\GitHub\STS\STS.CrossService\obj\Debug\STS.CrossService.csprojResolveAssemblyReference.cache
+C:\Users\r-gploum\Documents\GitHub\STS\STS.CrossService\obj\Debug\STS.CrossService.dll
+C:\Users\r-gploum\Documents\GitHub\STS\STS.CrossService\obj\Debug\STS.CrossService.pdb

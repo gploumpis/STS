@@ -4,3 +4,9 @@ C:\STS\STS\STS.Simple.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
 C:\STS\STS\STS.Simple.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
 C:\STS\STS\STS.Simple.Core\obj\Debug\STS.Simple.Core.dll
 C:\STS\STS\STS.Simple.Core\obj\Debug\STS.Simple.Core.pdb
+C:\Users\r-gploum\Documents\GitHub\STS\STS.Simple.Core\bin\Debug\STS.Simple.Core.dll
+C:\Users\r-gploum\Documents\GitHub\STS\STS.Simple.Core\bin\Debug\STS.Simple.Core.pdb
+C:\Users\r-gploum\Documents\GitHub\STS\STS.Simple.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\r-gploum\Documents\GitHub\STS\STS.Simple.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\r-gploum\Documents\GitHub\STS\STS.Simple.Core\obj\Debug\STS.Simple.Core.dll
+C:\Users\r-gploum\Documents\GitHub\STS\STS.Simple.Core\obj\Debug\STS.Simple.Core.pdb

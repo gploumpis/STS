@@ -4,3 +4,9 @@ C:\STS\STS\STS.BearerAuthenticationModule\bin\Debug\System.IdentityModel.Tokens.
 C:\STS\STS\STS.BearerAuthenticationModule\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
 C:\STS\STS\STS.BearerAuthenticationModule\obj\Debug\STS.BearerAuthenticationModule.dll
 C:\STS\STS\STS.BearerAuthenticationModule\obj\Debug\STS.BearerAuthenticationModule.pdb
+C:\Users\r-gploum\Documents\GitHub\STS\STS.BearerAuthenticationModule\bin\Debug\STS.BearerAuthenticationModule.dll
+C:\Users\r-gploum\Documents\GitHub\STS\STS.BearerAuthenticationModule\bin\Debug\STS.BearerAuthenticationModule.pdb
+C:\Users\r-gploum\Documents\GitHub\STS\STS.BearerAuthenticationModule\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\r-gploum\Documents\GitHub\STS\STS.BearerAuthenticationModule\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\r-gploum\Documents\GitHub\STS\STS.BearerAuthenticationModule\obj\Debug\STS.BearerAuthenticationModule.dll
+C:\Users\r-gploum\Documents\GitHub\STS\STS.BearerAuthenticationModule\obj\Debug\STS.BearerAuthenticationModule.pdb
