@@ -1,0 +1,6 @@
+C:\STS\STS\STS.BearerAuthenticationModule\bin\Debug\STS.BearerAuthenticationModule.dll
+C:\STS\STS\STS.BearerAuthenticationModule\bin\Debug\STS.BearerAuthenticationModule.pdb
+C:\STS\STS\STS.BearerAuthenticationModule\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\STS\STS\STS.BearerAuthenticationModule\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\STS\STS\STS.BearerAuthenticationModule\obj\Debug\STS.BearerAuthenticationModule.dll
+C:\STS\STS\STS.BearerAuthenticationModule\obj\Debug\STS.BearerAuthenticationModule.pdb

@@ -1,0 +1,7 @@
+C:\STS\STS\STS.Simple.Core\bin\Release\STS.Simple.Core.dll
+C:\STS\STS\STS.Simple.Core\bin\Release\STS.Simple.Core.pdb
+C:\STS\STS\STS.Simple.Core\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\STS\STS\STS.Simple.Core\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\STS\STS\STS.Simple.Core\obj\Release\STS.Simple.Core.csprojResolveAssemblyReference.cache
+C:\STS\STS\STS.Simple.Core\obj\Release\STS.Simple.Core.dll
+C:\STS\STS\STS.Simple.Core\obj\Release\STS.Simple.Core.pdb

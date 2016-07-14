@@ -1,0 +1,12 @@
+C:\STS\STS\STS.CrossService\bin\Debug\STS.CrossService.dll
+C:\STS\STS\STS.CrossService\bin\Debug\STS.CrossService.pdb
+C:\STS\STS\STS.CrossService\bin\Debug\STS.Simple.Core.dll
+C:\STS\STS\STS.CrossService\bin\Debug\System.Net.Http.Formatting.dll
+C:\STS\STS\STS.CrossService\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\STS\STS\STS.CrossService\bin\Debug\Newtonsoft.Json.dll
+C:\STS\STS\STS.CrossService\bin\Debug\STS.Simple.Core.pdb
+C:\STS\STS\STS.CrossService\bin\Debug\System.Net.Http.Formatting.xml
+C:\STS\STS\STS.CrossService\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\STS\STS\STS.CrossService\obj\Debug\STS.CrossService.csprojResolveAssemblyReference.cache
+C:\STS\STS\STS.CrossService\obj\Debug\STS.CrossService.dll
+C:\STS\STS\STS.CrossService\obj\Debug\STS.CrossService.pdb

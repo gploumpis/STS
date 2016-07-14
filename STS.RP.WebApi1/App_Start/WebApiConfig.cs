@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
-using System.Web.Http.Cors;
-
+using Atlas.Web.Security;
 namespace STS.RP.WebApi1
 {
     public static class WebApiConfig
@@ -11,7 +10,7 @@ namespace STS.RP.WebApi1
         public static void Register(HttpConfiguration config)
         {
             // Web API configuration and services
-            ConfigureCors(config);
+
             // Web API routes
             config.MapHttpAttributeRoutes();
 
@@ -20,13 +19,10 @@ namespace STS.RP.WebApi1
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
-        }
 
-        private static void ConfigureCors(HttpConfiguration httpConfiguration)
-        {
-            var attr = new EnableCorsAttribute("*", "*", "*") { SupportsCredentials = true };
+            config.Filters.Add(new AuthorizeAttribute());
+            //config.UseJwtBearerAuthentication();
 
-            httpConfiguration.EnableCors(attr);
         }
     }
 }

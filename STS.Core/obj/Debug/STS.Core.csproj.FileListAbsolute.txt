@@ -1,8 +1,0 @@
-C:\STS\STS.Core\bin\Debug\STS.Core.dll
-C:\STS\STS.Core\bin\Debug\STS.Core.pdb
-C:\STS\STS.Core\bin\Debug\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
-C:\STS\STS.Core\obj\Debug\STS.Core.dll
-C:\STS\STS.Core\obj\Debug\STS.Core.pdb
-C:\STS\STS.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
-C:\STS\STS.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
-C:\STS\STS.Core\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
